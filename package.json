@@ -25,6 +25,9 @@
     "mode": "auto",
     "cjs": true
   },
+  "engines": {
+    "node": "10.0.0"
+  },
   "dependencies": {
     "@google-cloud/firestore": "^0.20.0",
     "chalk": "^2.3.0",
